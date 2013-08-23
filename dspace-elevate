@@ -1,5 +1,5 @@
 {
-  "title": "Elevate 2013 Public/Private spaces #show",
+  "title": "Elevate 2013 Public/Private spaces #show https://pad.elevate.at/p/offenestadt",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -9,14 +9,103 @@
       "ideas": {
         "1": {
           "title": "Where and Who is Public Space #ESC",
-          "id": 4
+          "id": 4,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "2": {
+          "title": "Surveillance Cameras #Orwell",
+          "id": 19,
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
+        },
+        "3": {
+          "title": "Mapping Graz #OSM",
+          "id": 21,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            }
+          }
+        },
+        "4": {
+          "title": "Empty Spaces #GrazWiki",
+          "id": 22,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
+        },
+        "5": {
+          "title": "Street Art #Elevate",
+          "id": 23,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
+        },
+        "0.5": {
+          "title": "Journalism Abundance #UNI",
+          "id": 7,
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "<div><font size=\"5\">1. \"Journalismusambulanz\" (Thomas Wolkinger/ FH Joanneum)</font></div><div><br></div><div>Orte die die &nbsp;Frage öffentlich - privat aufwerfen - Bahnhof, Andräplatz, Rieckhbrache &nbsp;(Potenzial &nbsp;vs. Verwertungsziel) - Außenstelle mit 3 Stationen - an &nbsp;jeder Station gibt es eine Aufgabe. Mit Studierenden, Teilnahme auch für &nbsp;andere möglich&nbsp;</div><div>3 Orte: Bahnhof / Rieckgründe / Andräplatz</div><div><br></div><div>Joachim Hainzl / Thomas Wolkinger ist mit ihm in Kontakt</div><div>Hainzl macht guide für die drei Orte mit lectures oder spielerisch - könnte man evtl. aufnehmen</div><div>15 Leute, 5. Semester - Gruppe soll wachsen. Kleine Flyer wie man mitmacht.</div><div>Spiele &nbsp;zum Mitmachen (zb mit Öbb Hausordnung am Bahnhof, Interviewen von &nbsp;Securities, etc / Rieckgründe, zb Vortrag, etc / Andräplatz zb &nbsp;Interviews über Platznutzung)</div><div><br></div><div>Koord Daniel</div><div>Mapping? http://kort.ch als Vorschlag / bzw eigene software nutzen</div><div><br></div><div>evtl nicht openstreetmap sondern ein anderes Interface? g24.at</div><div>Mapping Content Posten / evtl in einem anderen System (Hannes?)</div><div><br></div><div>öffentliches Projekt - kleine Flyer als Info!</div>"
+            },
+            "style": {
+              "background": "#ffff00"
+            }
+          }
         }
       }
     },
     "-1": {
       "title": "peers",
       "id": 5,
-      "ideas": {}
+      "ideas": {
+        "2": {
+          "title": "Elevate http://2013.elevate.at #dev",
+          "id": 9
+        },
+        "3": {
+          "title": "GrazWiki http://grazwiki.at #dev",
+          "id": 10
+        },
+        "4": {
+          "title": "OpenStreetMap #dev #activ",
+          "id": 11
+        },
+        "5": {
+          "title": "G24 http://g24.at #dev",
+          "id": 13,
+          "ideas": {}
+        },
+        "6": {
+          "title": "FunkFeuer ? #dev http://graz.funkfeuer.at/",
+          "id": 18
+        },
+        "7": {
+          "title": "UNI #acvit",
+          "id": 16
+        },
+        "8": {
+          "title": "ESC #activ",
+          "id": 17
+        },
+        "9": {
+          "title": "Orwell http://orwell.at",
+          "id": 20
+        }
+      }
     }
-  }
+  },
+  "links": []
 }
