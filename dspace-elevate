@@ -1,5 +1,22 @@
 {
-  "title": "Press Space or double-click to edit",
+  "title": "Elevate 2013 Public/Private spaces #show",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "10": {
+      "title": "activities",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Where and Who is Public Space #ESC",
+          "id": 4
+        }
+      }
+    },
+    "-1": {
+      "title": "peers",
+      "id": 5,
+      "ideas": {}
+    }
+  }
 }
