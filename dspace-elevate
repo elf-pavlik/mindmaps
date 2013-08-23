@@ -52,6 +52,24 @@
             }
           }
         },
+        "6": {
+          "title": "City Yoga ?",
+          "id": 24,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
+        },
+        "8": {
+          "title": "Drone ?",
+          "id": 27,
+          "attr": {
+            "style": {
+              "background": "#339966"
+            }
+          }
+        },
         "0.5": {
           "title": "Journalism Abundance #UNI",
           "id": 7,
@@ -64,6 +82,15 @@
               "background": "#ffff00"
             }
           }
+        },
+        "5.5": {
+          "title": "Walk the Line",
+          "id": 25,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         }
       }
     },
@@ -73,7 +100,16 @@
       "ideas": {
         "2": {
           "title": "Elevate http://2013.elevate.at #dev",
-          "id": 9
+          "id": 9,
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "rocking the boat ;)"
+            },
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
         },
         "3": {
           "title": "GrazWiki http://grazwiki.at #dev",
@@ -103,6 +139,10 @@
         "9": {
           "title": "Orwell http://orwell.at",
           "id": 20
+        },
+        "10": {
+          "title": "OKFN ?",
+          "id": 28
         }
       }
     }
