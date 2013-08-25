@@ -52,24 +52,6 @@
             }
           }
         },
-        "6": {
-          "title": "City Yoga ?",
-          "id": 24,
-          "attr": {
-            "style": {
-              "background": "#ff6600"
-            }
-          }
-        },
-        "8": {
-          "title": "Drone ?",
-          "id": 27,
-          "attr": {
-            "style": {
-              "background": "#339966"
-            }
-          }
-        },
         "0.5": {
           "title": "Journalism Abundance #UNI",
           "id": 7,
