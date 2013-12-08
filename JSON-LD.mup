@@ -1,0 +1,125 @@
+{
+  "title": "JSON-LD",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Processor",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Expension",
+          "id": 6
+        },
+        "2": {
+          "title": "Compaction",
+          "id": 7
+        },
+        "3": {
+          "title": "Flattening",
+          "id": 8
+        },
+        "4": {
+          "title": "Framing",
+          "id": 11
+        }
+      }
+    },
+    "2": {
+      "title": "Serializer/Deserializer",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "toRDF",
+          "id": 9
+        },
+        "2": {
+          "title": "fromRDF",
+          "id": 10
+        }
+      }
+    },
+    "3": {
+      "title": "Formats",
+      "id": 23,
+      "ideas": {
+        "1": {
+          "title": "NQuads",
+          "id": 24,
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "used for?"
+            },
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "2": {
+          "title": "RDFa",
+          "id": 25
+        }
+      }
+    },
+    "-1": {
+      "title": "Loader",
+      "id": 4,
+      "ideas": {
+        "1": {
+          "title": "node",
+          "id": 18
+        },
+        "2": {
+          "title": "jquery",
+          "id": 19
+        },
+        "3": {
+          "title": "xhr",
+          "id": 20
+        },
+        "4": {
+          "title": "HTTPSignature",
+          "id": 22
+        }
+      }
+    },
+    "-2": {
+      "title": "Misc",
+      "id": 12,
+      "ideas": {
+        "1": {
+          "title": "Objectify",
+          "id": 13,
+          "ideas": {},
+          "attr": {
+            "attachment": {
+              "contentType": "text/html",
+              "content": "unused?"
+            },
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "2": {
+          "title": "Normalize",
+          "id": 15
+        },
+        "3": {
+          "title": "Cache",
+          "id": 17,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "4": {
+          "title": "LabelBlankNodes",
+          "id": 21
+        }
+      }
+    }
+  }
+}
